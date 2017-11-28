@@ -1,0 +1,846 @@
+fileFormatVersion: 2
+guid: efbc19fc527ffa84797374fdc9162fc7
+timeCreated: 1500648005
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: amina_spritesheet_0
+    21300002: amina_spritesheet_1
+    21300004: amina_spritesheet_2
+    21300006: amina_spritesheet_3
+    21300008: amina_spritesheet_4
+    21300010: amina_spritesheet_5
+    21300012: amina_spritesheet_6
+    21300014: amina_spritesheet_7
+    21300016: amina_spritesheet_8
+    21300018: amina_spritesheet_9
+    21300020: amina_spritesheet_10
+    21300022: amina_spritesheet_11
+    21300024: amina_spritesheet_12
+    21300026: amina_spritesheet_13
+    21300028: amina_spritesheet_14
+    21300030: amina_spritesheet_15
+    21300032: amina_spritesheet_16
+    21300034: amina_spritesheet_17
+    21300036: amina_spritesheet_18
+    21300038: amina_spritesheet_19
+    21300040: amina_spritesheet_20
+    21300042: amina_spritesheet_21
+    21300044: amina_spritesheet_22
+    21300046: amina_spritesheet_23
+    21300048: amina_spritesheet_24
+    21300050: amina_spritesheet_25
+    21300052: amina_spritesheet_26
+    21300054: amina_spritesheet_27
+    21300056: amina_spritesheet_28
+    21300058: amina_spritesheet_29
+    21300060: amina_spritesheet_30
+    21300062: amina_spritesheet_31
+    21300064: amina_spritesheet_32
+    21300066: amina_spritesheet_33
+    21300068: amina_spritesheet_34
+    21300070: amina_spritesheet_35
+    21300072: amina_spritesheet_36
+    21300074: amina_spritesheet_37
+    21300076: amina_spritesheet_38
+    21300078: amina_spritesheet_39
+    21300080: amina_spritesheet_40
+    21300082: amina_spritesheet_41
+    21300084: amina_spritesheet_42
+    21300086: amina_spritesheet_43
+    21300088: amina_spritesheet_44
+    21300090: amina_spritesheet_45
+    21300092: amina_spritesheet_46
+    21300094: amina_spritesheet_47
+    21300096: amina_spritesheet_48
+    21300098: amina_spritesheet_49
+    21300100: amina_spritesheet_50
+    21300102: amina_spritesheet_51
+    21300104: amina_spritesheet_52
+    21300106: amina_spritesheet_53
+    21300108: amina_spritesheet_54
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: amina_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2478
+        width: 195
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2478
+        width: 169
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 2478
+        width: 178
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2478
+        width: 218
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 2478
+        width: 191
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 2479
+        width: 214
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 2479
+        width: 240
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2125
+        width: 286
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2124
+        width: 295
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2124
+        width: 195
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 2124
+        width: 190
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 2124
+        width: 185
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 2124
+        width: 179
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 2124
+        width: 176
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1770
+        width: 169
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1770
+        width: 175
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1770
+        width: 180
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1770
+        width: 185
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1770
+        width: 190
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1774
+        width: 217
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 1772
+        width: 218
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1419
+        width: 218
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1424
+        width: 219
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1449
+        width: 217
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1449
+        width: 218
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1424
+        width: 217
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1419
+        width: 218
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 1418
+        width: 218
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1065
+        width: 219
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1061
+        width: 195
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1061
+        width: 217
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1061
+        width: 195
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1066
+        width: 164
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 1079
+        width: 170
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 1090
+        width: 195
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 712
+        width: 205
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 706
+        width: 195
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 706
+        width: 165
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 706
+        width: 194
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 706
+        width: 217
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 708
+        width: 217
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 709
+        width: 218
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 354
+        width: 218
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 353
+        width: 218
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 354
+        width: 218
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 354
+        width: 217
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 354
+        width: 218
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 353
+        width: 194
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 354
+        width: 212
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 196
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 175
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 195
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 0
+        width: 211
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 0
+        width: 195
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: amina_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 0
+        width: 171
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
