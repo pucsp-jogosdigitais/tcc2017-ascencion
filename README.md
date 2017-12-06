@@ -1,6 +1,7 @@
 # Nome do projeto
 Ascencion
-Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
+Projeto de conclusão de curso, jogos digitais 2017.
+Jogo de plataforma 2D, focado em puzzles.
 
 # Nome compledo dos integrantes do projeto:
 
@@ -13,6 +14,6 @@ Inserir imagens do jogo.
 
 # Informações de como compilar o jogo:
 
-Descriver aqui quais são as ferramentas necessárias para alterar e compilar o jogo a partir do código fonte.
+Para compilar e executar o jogo através do código fonte deve ser utilizado a versão 5.6.1 da Unity.
 
 **OBSERVAÇÃO: NO REPOSITÓRIO DEVE EXISTIR TODOS OS ARQUIVOS DESENVOLVIDOS PARA O PROJETO, INCLUINDO ARTES, MODELOS 3D ORIGINAIS, ETC..**
