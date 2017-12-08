@@ -10,10 +10,10 @@ Jogo de plataforma 2D, focado em puzzles.
 
 # Imagens do jogo:
 
-Inserir imagens do jogo.
+![Gameplay][https://imgur.com/0duH6m1]
 
 # Informações de como compilar o jogo:
 
 Para compilar e executar o jogo através do código fonte deve ser utilizado a versão 5.6.1 da Unity.
 
-**OBSERVAÇÃO: NO REPOSITÓRIO DEVE EXISTIR TODOS OS ARQUIVOS DESENVOLVIDOS PARA O PROJETO, INCLUINDO ARTES, MODELOS 3D ORIGINAIS, ETC..**
+Ou no site: https://keops.itch.io/ascension baixe o instalador.
