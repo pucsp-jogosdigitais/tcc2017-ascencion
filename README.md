@@ -1,5 +1,5 @@
 # Nome do projeto
-Ascencion
+Ascension
 Projeto de conclusão de curso, jogos digitais 2017.
 Jogo de plataforma 2D, focado em puzzles.
 
