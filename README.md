@@ -10,7 +10,7 @@ Jogo de plataforma 2D, focado em puzzles.
 
 # Imagens do jogo:
 
-![Gameplay][https://imgur.com/0duH6m1]
+!https://imgur.com/0duH6m1
 
 # Informações de como compilar o jogo:
 
